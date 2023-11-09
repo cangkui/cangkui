@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 😄 I'm a primary programmer who is intrested in system development and deep learning.
+- 🌱 I've got a bachelor's degree in Central South University(CSU), and I'm currently pursuing a master's degree at Beihang University(BUAA).
+- 📫 How to reach me: cangkui439@outlook.com
 
 <!--
 **cangkui/cangkui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
